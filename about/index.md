@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About New Human Press
+excerpt: "Be polite, be professional, but have a plan to kill everybody you meet."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: moonrise.jpg
+  credit: Wes Anderson
+  creditlink: http://www.idon'tknowman.com/fuck
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+It's like you're embarrassed.  When we're out and I mention to people that I've recently transformed into a leprechaun, you always laugh lightly then veer the conversation to another topic.  I don't want them to think I'm crazy either, but I can't lie about who I am.  It is who I am..
 
 ## So Simple Theme is all about:
 
