@@ -1,26 +1,25 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About New Human Press
+excerpt: “Has any one supposed it lucky to be born? I hasten to inform him or her it is just as lucky to die, and I know it.”
+modified: 2015-09-19T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Difficulties break some men but make others. No axe is sharp enough to cut the soul of a sinner who keeps on trying, one armed with the hope that he will rise even in the end.
 
-## So Simple Theme is all about:
+## I Wholeheartedly Believe:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+* We are all born ignorant, but one must work hard to remain stupid.
+* The larger the island of knowledge, the longer the shoreline of wonder.
+* To my mathematical brain, the numbers alone make thinking about aliens perfectly rational. The real challenge is to work out what aliens might actually be like.
+* Humanity is actually under the control of dinosaur-like alien reptiles called the Babylon Brotherhood who must consume human blood to maintain their human appearance.
+* The Big Five publishing companies are dinosaurs trying to survive in a post-meteor world. They won't.
+* You could arm-wrestle with a T. rex and win, but you shouldn't because it only makes them mad.
+* I'm always trying to reach a transcendent point, a romantic point, but reach it in a really unconventional way, a really profane way. To get to that romantic, touching, heartbreaking place, but through a lot of acts of profanity.
+* I believe things cannot make themselves impossible.
 
 [^1]: Example: *domain.com/category-name/post-title*
