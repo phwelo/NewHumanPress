@@ -5,8 +5,8 @@ locale: en_US
 description: new humanism began in magazines
 logo: site-logo.jpg
 search: true
-#url: http://localhost:4000
-url: http://phwelo.github.io/NewHumanPress
+url: http://localhost:4000
+#url: http://phwelo.github.io/NewHumanPress
 
 # Jekyll configuration
 

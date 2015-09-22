@@ -219,3 +219,26 @@ pre {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, .highlight {
 	@include transition(all .2s ease);
 }
+
+.avatar-div{
+  float: left;
+  margin-right:20px;
+}
+
+.bio-div{
+  width:100%;
+  overflow:auto;
+}
+
+.avatarimg{
+  margin-bottom: 0px!important;
+}
+
+.authname{
+  margin-top:0px;
+	margin-bottom: 0px;
+}
+
+.biotext{
+	margin-top:-7px;
+}
