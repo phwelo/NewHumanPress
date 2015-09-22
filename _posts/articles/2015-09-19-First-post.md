@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lee_sharks
 title: "A/I: literature for cyborg messiahs"
 excerpt: "A/I's vision was to make up a new movement in literature and visual art."
 categories: articles
@@ -17,4 +18,4 @@ A/I is the iconic new humanist imaginary magazine. Ushered into existence by Joh
 
 A/I's vision was to make up a new movement in literature and visual art, termed "Telepathicism" by Sharks and Sigil, by thinking about it strenuously with determined facial expressions. Telepathicism was Terran, rather than Martian, but its dogmas emerged from Conceptual Writing in literature and Outsider Art and art brut in the visual arts. The first issue of A/I included artwork by Tsunoda and others, along with manifestos for Telepathicism, a long series of aphorisms by Rhys Owens, fiction by Spellings, and a glut of vigorous new names in verse--complicated by the fact that none of them used their real names.
 
-Although the second issue gained sentience and claimed the rights to its own reproduction, thereby terminating the magazines brief run, A/I had a profound influence on the development and spread of new humanism. 
+Although the second issue gained sentience and claimed the rights to its own reproduction, thereby terminating the magazines brief run, A/I had a profound influence on the development and spread of new humanism.
