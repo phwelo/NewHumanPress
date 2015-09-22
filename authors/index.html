@@ -1,0 +1,18 @@
+---
+layout: page
+title: Authors
+excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+search_omit: true
+---
+
+{% for author in site.data.authors %}
+{% assign poet = author[1] %}
+<div style="width:100%;overflow:auto;">
+  <div style="float:left;margin-right:20px;"><img class="bio-photo" src="../images/{{ poet.avatar }}"></div>
+  <div>
+    <span class="author vcard">{{ poet.name }} </span><br>
+    <span class="entry-date date published">{{ poet.bio }} </span>
+  </div>
+</div>
+<hr>
+{% endfor %}
