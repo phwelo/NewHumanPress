@@ -4,9 +4,7 @@ title: About New Human Press
 excerpt: “Has any one supposed it lucky to be born? I hasten to inform him or her it is just as lucky to die, and I know it.”
 modified: 2015-09-19T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: at.jpg
 ---
 
 Difficulties break some men but make others. No axe is sharp enough to cut the soul of a sinner who keeps on trying, one armed with the hope that he will rise even in the end.
